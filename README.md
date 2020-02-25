@@ -1,1 +1,1 @@
-# hearbleed-wordpress README is coming soon.
+# heartbleed-wordpress README is coming soon.
